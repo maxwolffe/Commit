@@ -57,15 +57,13 @@ header {
 }
 
 #logo{
+    color: #ffd380;
     float: left;
     width: 20%;
     margin: 15px 0 0 1.5625%;
     padding: .5% 0 0 .5%;
 }
 
-#logo:hover{
-    color: #ffd380;
-}
 
 nav ul li{
     float: left;
@@ -146,6 +144,10 @@ footer{
     background: #052057;
 }
 
+footer p{
+    float: right;
+    margin: 0;
+}
 
 
 
